@@ -1,4 +1,4 @@
-### Oi! E sou o Nelson e seja bem vindo ao meu GitHub!
+### Oi! Eu sou o Nelson e seja bem vindo ao meu GitHub!
 
 - 👨🏿‍💻 Atualmente trabalho com a cultura DevOps
 - 📖 Atualmente estou estudando Docker e Kubernetes. 
