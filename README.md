@@ -1,8 +1,8 @@
 ### Oi! Eu sou o Nelson e seja bem vindo ao meu GitHub!
 
 - 👨🏿‍💻 Atualmente trabalho com a cultura DevOps
-- 📖 Atualmente estou estudando Docker e Kubernetes. 
-- 📖 Pretendo iniciar em breve os estudos em: Jenkins, Terraform, Ansible, Helm e Istio
+- 📖 Sempre estou estudando.
+
 
  <div>
   <a href="https://github.com/nelsonstudent">
