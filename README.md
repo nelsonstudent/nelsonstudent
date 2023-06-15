@@ -2,6 +2,8 @@
 
 - 👨🏿‍💻 Atualmente trabalho com a cultura DevOps
 - 📖 Sempre estou estudando.
+- Certificações:
+  . Oracle Foundations Associate.
 
 
  <div>
