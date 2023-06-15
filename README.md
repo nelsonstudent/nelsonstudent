@@ -1,7 +1,7 @@
 ### Oi! Eu sou o Nelson e seja bem vindo ao meu GitHub!
 
-- 👨🏿‍💻 Atualmente trabalho com a cultura DevOps
-- 📖 Sempre estou estudando.
+- 👨🏿‍💻 Atualmente trabalho com monitoramento e observabilidade dentro do time DevSecOps;
+- 📖 Sempre estou estudando;
 - Certificações: Oracle Foundations Associate.
 
 
