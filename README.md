@@ -2,7 +2,11 @@
 
 - 👨🏿‍💻 Atualmente trabalho com monitoramento e observabilidade dentro do time DevSecOps;
 - 📖 Sempre estou estudando;
-- Certificações: Oracle Foundations Associate.
+- Certificações:
+  1) OCI: Oracle Foundations Associate;
+  2) AWS: AWS Cloud Practitione Essentials;
+  3) The Linux Foudation: LFS148: Getting Started with OpenTelemetry;
+  4) The FinOps Foudatition: Introduction to FinOps.
 
 
  <div>
